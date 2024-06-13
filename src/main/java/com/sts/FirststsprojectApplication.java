@@ -8,6 +8,8 @@ public class FirststsprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirststsprojectApplication.class, args);
+		int i=30;
+		int j=50;
 	}
 
 }
